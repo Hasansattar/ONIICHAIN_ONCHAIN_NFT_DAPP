@@ -1,0 +1,13 @@
+AccessoryDetail=https://rinkeby.etherscan.io/address/0xF24c5A929dD7a38aA4d6BadB13f5E250fb9F7231#code
+BackgroundDetail=https://rinkeby.etherscan.io/address/0xbC377D81693c7d9A10FEA66ba71ee202f87F138c#code
+BodyDetail=https://rinkeby.etherscan.io/address/0xd50CECAe4706a22b56985CBe89b0bFb1ef0949B6#code
+EarringsDetail=https://rinkeby.etherscan.io/address/0xAC23613b5508Cc5503643451b27D494BED2f69eC#code
+MaskDetail=https://rinkeby.etherscan.io/address/0xF524046fAD8518Dc3f6D285cC42e12Eb8B587ba3#code
+EyebrowDetail=https://rinkeby.etherscan.io/address/0xB4a6364ee729A2F9700364f4e5D1cB2777837e34#code
+EyesDetail=https://rinkeby.etherscan.io/address/0xa3C32a9AC1621279ea947bad57DE52972Afdad03#code
+HairDetail=https://rinkeby.etherscan.io/address/0x26c84ba72A2626f021CF91Ed4D76d324957aB1dC#code
+MouthDetail=https://rinkeby.etherscan.io/address/0xD57E4856C4bB62E99620192436e9C16F1769e540#code
+NoseDetail=https://rinkeby.etherscan.io/address/0xffa990b730370aba5b9b451877ca2BD16deD5928#code
+MarkDetail=https://rinkeby.etherscan.io/address/0xd347510AF240b0dFA31abA2FF84bd8c96942b638#code
+OniiChainDescriptor=https://rinkeby.etherscan.io/address/0x8c32cc5768c80C6A3F890090c013Df672C53c16F#code
+OniiChain=https://rinkeby.etherscan.io/address/0x9E9EDc4D804C235DE4dc90009a169318cfeb16EA#code
